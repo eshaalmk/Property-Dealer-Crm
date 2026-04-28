@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "node server.js",
     "build": "next build",
-    "start": "next start",  
+    "start": "next start",
     "lint": "next lint",
     "seed": "node scripts/seed.js"
   },
@@ -24,7 +24,7 @@
     "jspdf-autotable": "^3.8.2",
     "lucide-react": "^0.383.0",
     "mongoose": "^8.3.4",
-    "next": "14.2.3",
+    "next": "14.2.35",
     "next-auth": "^4.24.7",
     "nodemailer": "^6.9.13",
     "react": "^18",
